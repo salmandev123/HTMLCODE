@@ -1,0 +1,58 @@
+  body{
+    background-image: url(download.jpeg);
+    background-size: cover;
+    background-image: linear-gradient( blue,black);
+}
+.nav {
+    border-top: 2px solid white;
+    border-bottom: 3px solid white;
+    background-color: rgb(20, 20, 97);
+    color: white;
+    font-size: 20px;
+    align-content: center;
+    padding: 15px;
+    margin-top:20px ;
+    transition-property:all;
+    transition-duration: 2s;
+  }
+.nav:hover {
+  background-color: red;
+}
+    
+
+
+ h3{
+   color: white;
+   margin-top: 30px;
+ }
+ DIV{
+    margin-top: 200PX;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+
+ }
+ button{
+    background-color: rgb(196, 199, 201);
+    font-size: x-large;
+    padding: 12px 8px; 
+    border-radius: 10px;
+    border-style: none;
+  }   
+    
+  /* div{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+  }
+  div:hover{
+    background-color: aquamarine;
+    color: brown;
+   font-size: 15px;
+  }
+  div:active{
+    background-color: red;
+  } */
